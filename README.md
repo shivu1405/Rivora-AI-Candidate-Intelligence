@@ -51,6 +51,11 @@ requirements.txt
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Architecture 
+
+<img width="1902" height="521" alt="image" src="https://github.com/user-attachments/assets/c8fe0d3c-054b-4fbc-b731-edb4f95c3e07" />
+
+
 
 ## Output
 
